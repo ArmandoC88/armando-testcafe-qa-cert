@@ -1,0 +1,1 @@
+# armando-testcafe-qa-cert
