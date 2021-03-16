@@ -1,0 +1,22 @@
+{
+  "name": "armando-testcafe-qa-cert",
+  "version": "1.0.0",
+  "description": "Testcafe S1 my trying",
+  "main": "index.js",
+  "scripts": {
+    "test-all-chrome": "testcafe chrome ./Saucedemo_page_model/testSauce"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmandoC88/armando-testcafe-qa-cert.git"
+  },
+  "author": "Ubaldo Armando Cervantes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmandoC88/armando-testcafe-qa-cert/issues"
+  },
+  "homepage": "https://github.com/ArmandoC88/armando-testcafe-qa-cert#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
